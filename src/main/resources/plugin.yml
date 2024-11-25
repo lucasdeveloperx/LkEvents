@@ -1,0 +1,16 @@
+name: LkMinigames
+main: Mizeaniversario.batataquente.Batataquente
+version: '1.0'
+api-version: '1.16'
+description: Craft com Creu - Plugin
+author: LkDeveloper
+commands:
+  batata:
+    description: Comandos para o jogo Batata Quente
+    usage: /<command> <entrar|sair|começar|setlobby|setarena>
+    aliases:
+      - bq
+permissions:
+  batataquente.comando:
+    description: Permite usar os comandos do jogo Batata Quente
+    default: true
