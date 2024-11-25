@@ -1,4 +1,4 @@
-# Batata Quente
+# LkEvents - Batata Quente
 
 **Batata Quente** é um plugin para Minecraft onde os jogadores participam de um jogo divertido em que devem passar a batata quente para outro jogador antes que ela "exploda". O jogo é dinâmico e exige rapidez e estratégia para evitar ser o último com a batata.
 
