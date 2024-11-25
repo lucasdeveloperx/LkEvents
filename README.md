@@ -13,6 +13,11 @@
 | `/batata setarena`      | Define a localização da arena do jogo.                              | `batataquente.setarena`      |
 | `/batata help`          | Mostra ajuda sobre os comandos do plugin Batata Quente.             | Nenhuma                      |
 
+## Download
+
+Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/lucasdeveloperx/LkEvents/releases), ou se
+você quiser, pode optar por clonar o repositório e dar build no plugin com suas alterações.
+
 ## Funcionalidades
 
 ### 1. **Jogo de Batata Quente**
